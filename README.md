@@ -1,6 +1,6 @@
-
-<img style align="center" src="https://github.com/Avinier/Avinier/assets/64399367/5d995185-4ee1-4352-8cab-6852d4f8821a)" />
-
+<p align="center">
+<img src="https://github.com/Avinier/Avinier/assets/64399367/5d995185-4ee1-4352-8cab-6852d4f8821a)" />
+</p>
 <!--ABOUT ME-->
 <h2 style = font-size: "50px" align="center"><img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/emojis/telegram/technologist.gif" width="32"/>&nbsp <b>About Me</b></h2>
 <p align="center">
