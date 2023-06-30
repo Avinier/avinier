@@ -1,6 +1,5 @@
-<p align="center">
-<img src="https://github.com/Avinier/Avinier/assets/64399367/5d995185-4ee1-4352-8cab-6852d4f8821a)" />
-</p>
+
+![github-profile](https://github.com/Avinier/Avinier/assets/64399367/2741a9df-aab0-4ae0-940e-85965771cb54)
 
 <!--ABOUT ME-->
 <h2 style = font-size: "50px" align="center"><img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/emojis/telegram/technologist.gif" width="32"/>&nbsp <b>About Me</b></h2>
@@ -20,4 +19,5 @@ Nextjs, Typescript, Python, C++, AWS etc. Frontend and Python dev are my main st
 
 
 <h2 style = font-size: "50px" align="center">Snake eats my commits!🐉</h2>
+
 ![snake gif](https://github.com/Avinier/Avinier/blob/output/github-contribution-grid-snake.svg)
