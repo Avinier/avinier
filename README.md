@@ -4,7 +4,7 @@
 <!--ABOUT ME-->
 <h2 style = font-size: "50px" align="center"><img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/emojis/telegram/technologist.gif" width="32"/>&nbsp <b>About Me</b></h2>
 <p align="center">
-I am a 2nd year CS Student, mainly a AIML developer, with experience in web dev and design. Deep Learning, ML, LLMs, Data Science. Apart from coding and building, I love movies and music, and play judo! Contact me for projects/work!
+I am a 3rd year CS Student, mainly a AIML developer, with experience in web dev and design. Deep Learning, ML, LLMs, Data Science. Apart from coding and building, I love movies and music, and play judo! Contact me for projects/work!
 </p>
 <p align="center">
 If you want to reach out, I'm most active on twitter <a href="https://twitter.com/avinierx" target="blank"><b>@avinierx</b>.
