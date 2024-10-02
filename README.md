@@ -18,6 +18,4 @@ Nextjs, Typescript, Python, Pytorch, C++, AWS etc. Frontend and Python dev are m
 </p>
 
 
-<h2 style font-size="50px" align="center">🐉 Snake eats my commits!</h2>
-
 ![snake gif](https://github.com/Avinier/Avinier/blob/output/github-contribution-grid-snake.svg)
